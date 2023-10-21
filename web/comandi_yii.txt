@@ -1,0 +1,3 @@
+lancio php - /Applications/MAMP/bin/php/php8.2.0/bin/php 
+create migration existing_
+eseguire la migration - yii migrate

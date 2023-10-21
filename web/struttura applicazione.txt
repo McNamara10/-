@@ -1,0 +1,23 @@
+Wallett
+    Entrate
+    - lista entrate
+    - ricerca per categoria
+    - ricerca per range di data
+    - inserimento entrate
+    - modifica entrate
+    - elimina entrate
+    - dettaglio entrate
+    - totale entrate
+
+    Uscite
+    - lista uscite
+    - ricerca per categoria
+    - ricerca per range di data
+    - inserimento uscite
+    - modifica uscite
+    - elimina uscite
+    - dettaglio uscite
+    - totale uscite
+
+funzione saldo
+
